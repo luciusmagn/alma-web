@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Alma</title>
+	<link href="static/main.css" rel="stylesheet"/>
+</head>
+<body onclick="window.location.hash = ''">
+	<div class="grid-container">
+		<div class="menu">
+			{{>partials/nav.html}}
+		</div>
+		<div class="content">
+			<div class="left">
+				<h2>Pricing</h2>
+				[[commissions commissions/template.html]]
+				<h2>Submit a commission</h2>
+				
+			</div>
+			<div class="right">
+				<h2>Showcase</h2>
+				<div class="container">
+					[[showcase showcase/template.html]]
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<p>Made with ❤  by Alma & Lukáš</p>
+		</div>
+	</div>
+</body>
+</html>
+
