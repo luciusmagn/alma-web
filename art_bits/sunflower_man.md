@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/sunflower_man.jpg"
-size = "4"
+size = "14"
 
 #### Sunflower man
 

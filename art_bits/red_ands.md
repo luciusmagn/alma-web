@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/red_ands.jpg"
-size = "4"
+size = "17"
 
 #### Red hands and stuff
 

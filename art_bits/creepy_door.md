@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/creepy_door.jpg"
-size = "2"
+size = "10"
 
 #### Scary door
 

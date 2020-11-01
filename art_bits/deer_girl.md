@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/deer_girl.jpg"
-size = "4"
+size = "14"
 
 #### Deer girl
 

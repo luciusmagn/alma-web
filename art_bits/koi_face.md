@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/koi_face.jpg"
-size = "2"
+size = "8"
 
 #### Koi face girl
 

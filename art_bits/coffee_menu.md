@@ -1,7 +1,7 @@
 alt = "Neiro??"
 src = "/media/coffee_menu.jpg"
-size = "4"
+size = "14"
 
 #### Coffee menu
 
-Just a nice day out in a cafe with cake and stuff. Maybe crop this pic? Idk.
+Just a nice day out in a cafe.

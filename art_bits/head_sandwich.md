@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/head_sandwich.jpg"
-size = "4"
+size = "15"
 
 #### Head sandwich
 

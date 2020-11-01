@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/upsidedown_neiro.jpg"
-size = "4"
+size = "14"
 
 #### Mirai Nikki
 

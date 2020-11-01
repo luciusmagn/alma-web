@@ -1,6 +1,6 @@
 alt = "Neiro??"
 src = "/media/bandw_neiro.jpg"
-size = "4"
+size = "15"
 
 #### Is this Neiro?
 
