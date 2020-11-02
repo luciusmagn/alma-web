@@ -1,1 +1,1 @@
-###### bottom text. piss your pant
+###### illustrator, comic artist, starving student

@@ -1,2 +1,1 @@
-sem __markdownově__ napiš, jak chceš, aby ti zadávali commissions, popř. ti sem můžu
-dát automatickej formulář :D
+Please message me on <u>instagram</u> or <u>email</u> me to order a commission! We will discuss the details together.
