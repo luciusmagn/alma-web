@@ -1,1 +1,1 @@
-###### she does art!
+###### illustrator, comic artist, starving student
