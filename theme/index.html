@@ -5,7 +5,7 @@
 	<title>Alma</title>
 	<link href="static/main.css" rel="stylesheet"/>
 </head>
-<body onclick="window.location.hash = ''">
+<body>
 	<div class="grid-container">
 		<div class="menu">
 			{{>partials/nav.html}}
@@ -19,6 +19,17 @@
 			<p>Made with ❤  by Alma & Lukáš</p>
 		</div>
 	</div>
+	<script>
+		document
+			.querySelector("body")
+			.addEventListener("click", (e) => {
+				let oldhash = window.location.hash;
+				console.log(oldhash);
+				window.location.hash = "";
+				let el = document.getElementById(oldhash.substring(1));
+				el.scrollIntoView({behavior: "smooth"});
+			});
+	</script>
 </body>
 </html>
 
