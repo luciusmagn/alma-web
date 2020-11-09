@@ -94,7 +94,7 @@ p {
 	display:grid;
 	grid-template-columns:repeat(3,250px);
 	grid-auto-rows: 25px;
-	grid-gap:0.5em;
+	grid-gap:0.9em;
 	justify-content:center;
 	grid-area: left / left / right / right;
 }
@@ -217,4 +217,15 @@ article.alma {
 	max-width: 60em;
 	align-self: center;
 	grid-area: left / left / right / right;
+}
+
+@media (pointer: coarse), (pointer: none) {
+	.container {
+		display:grid;
+		grid-template-columns:repeat(1, 100%);
+		grid-auto-rows: 25px;
+		grid-gap:0.9em;
+		justify-content:center;
+		grid-area: left / left / right / right;
+	}
 }
