@@ -31,6 +31,10 @@ nav a:hover {
 	border-radius: 5px;
 }
 
+p {
+	font-family: "Fira Sans", sans-serif;
+	font-weight: 200;
+}
 
 .grid-container {
 	display: grid;
@@ -206,5 +210,11 @@ h2 {
 article.alma {
     width: 750px;
     left: 50%;
+	grid-area: left / left / right / right;
+}
+
+.centered-container {
+	max-width: 60em;
+	align-self: center;
 	grid-area: left / left / right / right;
 }
