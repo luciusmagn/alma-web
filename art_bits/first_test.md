@@ -1,9 +1,7 @@
-alt = "Just a pic mate"
-src = "https://source.unsplash.com/random/400x210"
-size = "9"
+alt = "a pic of a guy screaming"
+src = "/media/aaaa.png"
+size = "13"
 
-#### Why are we still here?
+#### Nathan, screaming.
 
-Just to suffer? Every day, I feel my leg... and my arm...
-even my fingers. The body I've lost... the comrades I've
-lost... won't stop hurting.
+He screams, for he does not know.
