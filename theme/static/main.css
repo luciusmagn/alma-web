@@ -223,7 +223,7 @@ article.alma {
 	.container {
 		display:grid;
 		grid-template-columns:repeat(1, 100%);
-		grid-auto-rows: 25px;
+		grid-auto-rows: 4em;
 		grid-gap:0.9em;
 		justify-content:center;
 		grid-area: left / left / right / right;
