@@ -219,11 +219,11 @@ article.alma {
 	grid-area: left / left / right / right;
 }
 
-@media (pointer: coarse), (pointer: none) {
+@media (pointer: coarse), (pointer: none), (max-width: 721px) {
 	.container {
 		display:grid;
 		grid-template-columns:repeat(1, 100%);
-		grid-auto-rows: 4em;
+		grid-auto-rows: 3em;
 		grid-gap:0.9em;
 		justify-content:center;
 		grid-area: left / left / right / right;
@@ -236,5 +236,8 @@ article.alma {
 		overflow: hidden;
 		text-overflow: ellipsis;
 		background-color: #fff;
+	}
+	html {
+		font-size: xx-large;
 	}
 }
